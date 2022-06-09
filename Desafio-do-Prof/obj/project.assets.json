@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\josepj\\Desktop\\aula6-variaveis-e-operadores\\aula06\\Mesa-de-Trabalho.csproj",
-      "projectName": "Mesa-de-Trabalho",
-      "projectPath": "C:\\Users\\josepj\\Desktop\\aula6-variaveis-e-operadores\\aula06\\Mesa-de-Trabalho.csproj",
+      "projectUniqueName": "C:\\Users\\josepj\\Desktop\\aula6-variaveis-e-operadores\\Desafio-do-Prof\\Desafio-do-Prof.csproj",
+      "projectName": "Desafio-do-Prof",
+      "projectPath": "C:\\Users\\josepj\\Desktop\\aula6-variaveis-e-operadores\\Desafio-do-Prof\\Desafio-do-Prof.csproj",
       "packagesPath": "C:\\Users\\josepj\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\josepj\\Desktop\\aula6-variaveis-e-operadores\\aula06\\obj\\",
+      "outputPath": "C:\\Users\\josepj\\Desktop\\aula6-variaveis-e-operadores\\Desafio-do-Prof\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\josepj\\AppData\\Roaming\\NuGet\\NuGet.Config",

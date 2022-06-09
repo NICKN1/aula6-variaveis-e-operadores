@@ -1,0 +1,15 @@
+C:\Users\josepj\Desktop\aula6-variaveis-e-operadores\aula06\bin\Debug\net6.0\Mesa-de-Trabalho.exe
+C:\Users\josepj\Desktop\aula6-variaveis-e-operadores\aula06\bin\Debug\net6.0\Mesa-de-Trabalho.deps.json
+C:\Users\josepj\Desktop\aula6-variaveis-e-operadores\aula06\bin\Debug\net6.0\Mesa-de-Trabalho.runtimeconfig.json
+C:\Users\josepj\Desktop\aula6-variaveis-e-operadores\aula06\bin\Debug\net6.0\Mesa-de-Trabalho.dll
+C:\Users\josepj\Desktop\aula6-variaveis-e-operadores\aula06\bin\Debug\net6.0\Mesa-de-Trabalho.pdb
+C:\Users\josepj\Desktop\aula6-variaveis-e-operadores\aula06\obj\Debug\net6.0\Mesa-de-Trabalho.csproj.AssemblyReference.cache
+C:\Users\josepj\Desktop\aula6-variaveis-e-operadores\aula06\obj\Debug\net6.0\Mesa-de-Trabalho.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\josepj\Desktop\aula6-variaveis-e-operadores\aula06\obj\Debug\net6.0\Mesa-de-Trabalho.AssemblyInfoInputs.cache
+C:\Users\josepj\Desktop\aula6-variaveis-e-operadores\aula06\obj\Debug\net6.0\Mesa-de-Trabalho.AssemblyInfo.cs
+C:\Users\josepj\Desktop\aula6-variaveis-e-operadores\aula06\obj\Debug\net6.0\Mesa-de-Trabalho.csproj.CoreCompileInputs.cache
+C:\Users\josepj\Desktop\aula6-variaveis-e-operadores\aula06\obj\Debug\net6.0\Mesa-de-Trabalho.dll
+C:\Users\josepj\Desktop\aula6-variaveis-e-operadores\aula06\obj\Debug\net6.0\refint\Mesa-de-Trabalho.dll
+C:\Users\josepj\Desktop\aula6-variaveis-e-operadores\aula06\obj\Debug\net6.0\Mesa-de-Trabalho.pdb
+C:\Users\josepj\Desktop\aula6-variaveis-e-operadores\aula06\obj\Debug\net6.0\Mesa-de-Trabalho.genruntimeconfig.cache
+C:\Users\josepj\Desktop\aula6-variaveis-e-operadores\aula06\obj\Debug\net6.0\ref\Mesa-de-Trabalho.dll

@@ -1,0 +1,15 @@
+C:\Users\josepj\Desktop\aula6-variaveis-e-operadores\Desafio-do-Prof\bin\Debug\net6.0\Desafio-do-Prof.exe
+C:\Users\josepj\Desktop\aula6-variaveis-e-operadores\Desafio-do-Prof\bin\Debug\net6.0\Desafio-do-Prof.deps.json
+C:\Users\josepj\Desktop\aula6-variaveis-e-operadores\Desafio-do-Prof\bin\Debug\net6.0\Desafio-do-Prof.runtimeconfig.json
+C:\Users\josepj\Desktop\aula6-variaveis-e-operadores\Desafio-do-Prof\bin\Debug\net6.0\Desafio-do-Prof.dll
+C:\Users\josepj\Desktop\aula6-variaveis-e-operadores\Desafio-do-Prof\bin\Debug\net6.0\Desafio-do-Prof.pdb
+C:\Users\josepj\Desktop\aula6-variaveis-e-operadores\Desafio-do-Prof\obj\Debug\net6.0\Desafio-do-Prof.csproj.AssemblyReference.cache
+C:\Users\josepj\Desktop\aula6-variaveis-e-operadores\Desafio-do-Prof\obj\Debug\net6.0\Desafio-do-Prof.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\josepj\Desktop\aula6-variaveis-e-operadores\Desafio-do-Prof\obj\Debug\net6.0\Desafio-do-Prof.AssemblyInfoInputs.cache
+C:\Users\josepj\Desktop\aula6-variaveis-e-operadores\Desafio-do-Prof\obj\Debug\net6.0\Desafio-do-Prof.AssemblyInfo.cs
+C:\Users\josepj\Desktop\aula6-variaveis-e-operadores\Desafio-do-Prof\obj\Debug\net6.0\Desafio-do-Prof.csproj.CoreCompileInputs.cache
+C:\Users\josepj\Desktop\aula6-variaveis-e-operadores\Desafio-do-Prof\obj\Debug\net6.0\Desafio-do-Prof.dll
+C:\Users\josepj\Desktop\aula6-variaveis-e-operadores\Desafio-do-Prof\obj\Debug\net6.0\refint\Desafio-do-Prof.dll
+C:\Users\josepj\Desktop\aula6-variaveis-e-operadores\Desafio-do-Prof\obj\Debug\net6.0\Desafio-do-Prof.pdb
+C:\Users\josepj\Desktop\aula6-variaveis-e-operadores\Desafio-do-Prof\obj\Debug\net6.0\Desafio-do-Prof.genruntimeconfig.cache
+C:\Users\josepj\Desktop\aula6-variaveis-e-operadores\Desafio-do-Prof\obj\Debug\net6.0\ref\Desafio-do-Prof.dll

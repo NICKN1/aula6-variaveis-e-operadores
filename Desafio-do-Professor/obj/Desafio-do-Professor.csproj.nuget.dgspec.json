@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\josepj\\Desktop\\aula6-variaveis-e-operadores\\aula06\\aula06.csproj": {}
+    "C:\\Users\\josepj\\Desktop\\aula6-variaveis-e-operadores\\Desafio-do-Professor\\Desafio-do-Professor.csproj": {}
   },
   "projects": {
-    "C:\\Users\\josepj\\Desktop\\aula6-variaveis-e-operadores\\aula06\\aula06.csproj": {
+    "C:\\Users\\josepj\\Desktop\\aula6-variaveis-e-operadores\\Desafio-do-Professor\\Desafio-do-Professor.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\josepj\\Desktop\\aula6-variaveis-e-operadores\\aula06\\aula06.csproj",
-        "projectName": "aula06",
-        "projectPath": "C:\\Users\\josepj\\Desktop\\aula6-variaveis-e-operadores\\aula06\\aula06.csproj",
+        "projectUniqueName": "C:\\Users\\josepj\\Desktop\\aula6-variaveis-e-operadores\\Desafio-do-Professor\\Desafio-do-Professor.csproj",
+        "projectName": "Desafio-do-Professor",
+        "projectPath": "C:\\Users\\josepj\\Desktop\\aula6-variaveis-e-operadores\\Desafio-do-Professor\\Desafio-do-Professor.csproj",
         "packagesPath": "C:\\Users\\josepj\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\josepj\\Desktop\\aula6-variaveis-e-operadores\\aula06\\obj\\",
+        "outputPath": "C:\\Users\\josepj\\Desktop\\aula6-variaveis-e-operadores\\Desafio-do-Professor\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\josepj\\AppData\\Roaming\\NuGet\\NuGet.Config",
