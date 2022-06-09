@@ -4,7 +4,7 @@
 
 
 * Salomão Kim
-* Fabiana Sauyri
+* Fabiana Sayuri
 * Beatriz Friso
 * Jose Iranildo
 
